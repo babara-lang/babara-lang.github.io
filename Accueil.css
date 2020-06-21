@@ -1,0 +1,375 @@
+#barre{
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+	color: white;
+	background-color: black;
+	padding: 3px;
+	margin: -20px;
+	text-indent: 18px;
+	font-family: verdana;
+	height: 43px;
+	font-style: italic;
+	width:1348px;
+}
+
+#tekno{
+	top: -20px;
+	position: absolute;
+	right: 1160px;
+	font-size:24px;
+}
+
+#jaune a{
+    border-width: 2px;
+    border-style: solid;
+	border-color: black;
+	width: 120px;
+	height:23px;
+	top: 6px;
+	position: absolute;
+	right: 930px;
+	text-indent: 30px;
+	font-size:19.7px;
+	font-family: verdana;
+	color: white;
+}
+
+#tt a{
+	top: 9px;
+	position: absolute;
+	right: 790px;
+	font-size:18px;
+	color: white;
+	word-spacing: 10px;
+}
+
+#ttt a{
+	top: 8px;
+	font-family: verdana;
+	font-style: italic;
+	position: absolute;
+	font-size:19px;
+	right: 626px;
+	word-spacing: 10px;
+	color: white;
+}
+
+#tttt a{
+	top: 8px;
+	position: absolute;
+	font-family: verdana;
+	font-style: italic;
+	font-size:19px;
+	right: 499px;
+	color:white;
+	word-spacing: 10px;
+}
+
+#ttttt a{
+	top: 8px;
+	position: absolute;
+	font-family: verdana;
+	font-style: italic;
+	font-size:19px;
+	position: absolute;
+	color: white;
+	right: 364px;
+	word-spacing: 10px;
+}
+
+#tttttt a{
+	top: 8.9px;
+	position: absolute;
+	font-family: verdana;
+	font-style: italic;
+	font-size:19px;
+	color: white;
+	position: absolute;
+	right: 190px;
+	word-spacing: 10px;
+}
+
+#ttttttt a{
+	border-width: 2px;
+    border-style: solid;
+	border-color: black;
+	width: 130px;
+	height:23px;
+	top: 7px;
+	position: absolute;
+	right: 15px;
+	text-indent: 4.5px;
+	font-family: verdana;
+	background-color: #33E0FF;
+	color: white;
+}
+
+#image{
+	border-width: 2px;
+    border-style: solid;
+	border-color: white;
+	width: 1344px;
+	height:290px;
+	filter: brightness(0.7);
+	opacity: 0.9px;
+	top: 42px;
+	position: absolute;
+	left: 0px;
+}
+
+#message{
+	border-width: 2px;
+    border-style: solid;
+	border-color: ;
+	width: 1344px;
+	height:370px;
+	top: 42px;
+	color:white;
+	font-family: verdana;
+	position: absolute;
+	left: 0px;
+	font-size: 34px;
+}
+
+#information{
+	border-width: 2px;
+    border-style: solid;
+	border-color: #33E0FF;
+	width: 250px;
+	padding:-23px;
+	font-size:24px;
+	height: 30px;
+	color:white;
+	background-color: #33E0FF;
+	top: 291px;
+	font-style: italic;
+	text-align: center;
+	font-family: verdana;
+	position: absolute;
+	right: 545px;
+}
+
+
+#code{
+	border-width: 2px;
+    border-style: solid;
+	border-color: white;
+	right: 190px;
+	font-size: px;
+	height: 348px;
+	color: #A9A9A9;
+	width: 999px;
+	background-color: white;
+	position: absolute;
+	top: 539px;
+}
+
+a{
+	text-decoration: none;
+	color:black;
+}
+
+#noirs{
+	border-width: 2px;
+    border-style: solid;
+	border-color: black;
+	background-color:black;
+	padding: 1px;
+	position: absolute;
+	top: 400px;
+	width:1345px;
+	right: 3px;
+}
+
+h2{
+	border-width: 2px;
+    border-style: solid;
+	border-color: white;
+	color: black;
+	font-style: italic;
+    right: 530px;
+	font-family: verdana;
+	font-size: 27px;
+	position: absolute;
+	top: 469px;
+}
+
+#blue{
+	border-width: 2px;
+    border-style: solid;
+	border-color: white;
+	color: #33E0FF;
+	font-size:20px;
+	font-style: italic;
+	padding:5px;
+	word-spacing: 26px;
+	width: 963px;
+	text-indent: 148px;
+    right: 200px;
+	font-family: verdana;
+	position: absolute;
+	top: 590px;
+}
+
+#red{
+	border-width: 2px;
+    border-style: solid;
+	border-color: white;
+	color: #33E0FF;
+	font-size:20px;
+	font-style: italic;
+	padding:5px;
+	word-spacing: 27px;
+	width: 963px;
+	text-indent: 143px;
+    right: 200px;
+	font-family: verdana;
+	position: absolute;
+	top: 730px;
+}
+
+#project{
+	border-width: 2px;
+    border-style: solid;
+	border-color: white;
+	background-color: white;
+	color: black;
+	font-style: italic;
+    right: 440px;
+	font-family: verdana;
+	font-size: 27px;
+	position: absolute;
+	top: 995px;
+}
+
+#cercle{
+	border-width: 2px;
+    border-style: solid;
+	border-color: #33E0FF;
+	border-radius: 60px;
+	text-align: center;
+    background-image:url("https://c8.alamy.com/compfr/c800c8/fond-orange-bleu-c800c8.jpg");
+	color: black;
+	font-style: italic;
+    right: 1150px;
+    width: 120px;
+    height: 120px;
+	font-family: verdana;
+	position: absolute;
+	top: 1105px;
+}
+
+#cercle1{
+	border-width: 2px;
+    border-style: solid;
+	border-color:#33E0FF;
+	border-radius: 60px;
+	text-align: center;
+    background-color:#FFFF00;
+	color: black;
+	font-style: italic;
+    right: 800px;
+    width: 120px;
+    height: 120px;
+	font-family: verdana;
+	position: absolute;
+	top: 1105px;
+}
+
+#cercle2{
+	border-width: 2px;
+    border-style: solid;
+	border-color: #33E0FF;
+	border-radius: 60px;
+	text-align: center;
+    background-color:#677179;
+	color: black;
+	font-style: italic;
+    right: 450px;
+    width: 120px;
+    height: 120px;
+	font-family: verdana;
+	position: absolute;
+	top: 1105px;
+}
+
+#cercle3{
+	border-width: 2px;
+    border-style: solid;
+	border-color: #33E0FF;
+	text-align: center;
+	border-radius: 60px;
+    background-image: url("https://thumbs.dreamstime.com/t/fond-jaune-bleu-abstrait-de-vecteur-59919131.jpg");
+	color: black;
+	font-style: italic;
+    right:100px;
+    width: 120px;
+    height: 120px;
+	font-family: verdana;
+	position: absolute;
+	top: 1105px;
+}
+
+#plus a{
+	border-width: 2px;
+    border-style: solid;
+	border-color: WHITE;
+	color: black;
+	right:136px;
+	width: 185px;
+	position: absolute;
+	top: 265px;
+	font-size: 19px;
+	background-color:WHITE;
+	
+}
+
+#gb{
+    border-width: 2px;
+    border-style: solid;
+	border-color: white;
+    background-color: white;
+	color: black;
+	font-style: italic;
+    right:78px;
+    width: 1200px;
+    height: 320px;
+	font-family: verdana;
+	position: absolute;
+	top: 1493px;
+}
+
+#blanc{
+	border-width: 2px;
+    border-style: solid;
+	border-color:  #33E0FF;
+	background-color: white;
+	color: black;
+	font-style: italic;
+    right:0px;
+    width: 1376px;
+	text-align: center;
+    height: 120px;
+	font-family: verdana;
+	position: absolute;
+	top: 1800px;
+}
+
+#cv{
+	border-width: 2px;
+    border-style: solid;
+	border-color:  #33E0FF;
+	background-color: #33E0FF;
+	color: white;
+	font-size: 15px;
+	text-align: center;
+	font-style: italic;
+    right:0px;
+    width: 1382px;
+	text-align:;
+    height: 120px;
+	font-family: verdana;
+	position: absolute;
+	top: 1924px;
+}
